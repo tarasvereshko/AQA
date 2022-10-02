@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9a13243-8f55-4fdb-ac72-9a7203148dc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hillel/AutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hillel/CartModal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hillel/FirstTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hillel/hillel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2F2zDsLKj8nmgKSPVlI3cB5jXjF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.FirstTests.chekcardtocard">
+    <configuration name="AutoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hillel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hillel" />
+      <option name="MAIN_CLASS_NAME" value="hillel.AutoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hillel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hillel" />
+      <option name="MAIN_CLASS_NAME" value="hillel.AutoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoTest.cardtocard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hillel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hillel" />
+      <option name="MAIN_CLASS_NAME" value="hillel.AutoTest" />
+      <option name="METHOD_NAME" value="cardtocard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoTest.chekcardtocard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hillel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hillel" />
+      <option name="MAIN_CLASS_NAME" value="hillel.AutoTest" />
+      <option name="METHOD_NAME" value="chekcardtocard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hillel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hillel" />
+      <option name="MAIN_CLASS_NAME" value="hillel.FirstTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTests.chekcardtocard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hillel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hillel" />
+      <option name="MAIN_CLASS_NAME" value="hillel.FirstTests" />
+      <option name="METHOD_NAME" value="chekcardtocard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FirstTests.chekcardtocard" />
+        <item itemvalue="TestNG.FirstTests" />
+        <item itemvalue="TestNG.AutoTest.chekcardtocard" />
+        <item itemvalue="TestNG.AutoTest" />
+        <item itemvalue="TestNG.AutoTest.cardtocard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9a13243-8f55-4fdb-ac72-9a7203148dc8" name="Changes" comment="" />
+      <created>1663704854397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663704854397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
